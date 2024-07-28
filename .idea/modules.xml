@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOLID.iml" filepath="$PROJECT_DIR$/.idea/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. DIP/dip-adherence/dip-adherence.iml" filepath="$PROJECT_DIR$/5. DIP/dip-adherence/dip-adherence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. DIP/dip-violation/dip-violation.iml" filepath="$PROJECT_DIR$/5. DIP/dip-violation/dip-violation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. ISP/isp-adherence/isp-adherence.iml" filepath="$PROJECT_DIR$/4. ISP/isp-adherence/isp-adherence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. ISP/isp-violation/isp-violation.iml" filepath="$PROJECT_DIR$/4. ISP/isp-violation/isp-violation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. LSP/lsp-adherence/lsp-adherence.iml" filepath="$PROJECT_DIR$/3. LSP/lsp-adherence/lsp-adherence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. LSP/lsp-violation/lsp-violation.iml" filepath="$PROJECT_DIR$/3. LSP/lsp-violation/lsp-violation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. OCP/ocp-adherence/ocp-adherence.iml" filepath="$PROJECT_DIR$/2. OCP/ocp-adherence/ocp-adherence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. OCP/ocp-violation/ocp-violation.iml" filepath="$PROJECT_DIR$/2. OCP/ocp-violation/ocp-violation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. SRP/srp-adherence/srp-adherence.iml" filepath="$PROJECT_DIR$/1. SRP/srp-adherence/srp-adherence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. SRP/srp-violation/srp-violation.iml" filepath="$PROJECT_DIR$/1. SRP/srp-violation/srp-violation.iml" />
+    </modules>
+  </component>
+</project>
